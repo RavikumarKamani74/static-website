@@ -23,4 +23,8 @@ This project demonstrates how to host a static website on AWS using **S3** for s
    `http://<bucket-name>.s3-website-<region>.amazonaws.com`
 
 ## 🌍 Architecture
+- AWS S3
+- AWS CloudFront
+- (Optional) AWS Route 53
+- HTML, CSS
 
